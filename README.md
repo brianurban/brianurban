@@ -32,18 +32,19 @@ vs. 15% for classical baselines.
 ### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 
 **Libraries:** PyTorch, scikit-learn, SciPy, Pandas, NumPy<br>
-**Tools:** Git, Positron, VSCode, Tableau, DBeaver, Docker, AWS, Azure<br>
+**Tools:** Git, Positron, VSCode, Tableau, DBeaver, Docker, AWS, Azure, React<br>
 **Languages:** Python, R, SQL, LaTeX, HTML/CSS/JavaScript
 
 ---
@@ -71,6 +72,6 @@ Calibrated measurement instruments and validated analytical methodologies across
 
 ---
 
-### ⭐️ Fun Fact(s):
+### ⭐️ Fun Fact:
 
-- With my telescope, I take pictures of the night sky and bring it to local star parties to share my love and knowledge of the night sky.
+- With my telescope, I capture astrophotography and bring it to local star parties to share my love and knowledge of the night sky.
