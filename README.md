@@ -1,4 +1,4 @@
-# Hi, I'm Brian Urban 👋
+# Hi, I'm Brian! 👋
 
 🎓 **M.Sc. Data Science | B.Sc. Physics + Applied Mathematics minor**
 
