@@ -45,10 +45,10 @@ DECaLS images using transfer learning and weighted loss, reaching 83% test accur
 
 ### 💼 Experience
 
-- **📚 Math & Physics Tutor** | *Malcolm X College* | **Nov 2024 – Present**
+- **📚 Math & Physics Tutor** | *Malcolm X College* | **Nov 2024 – Present**<br>
 Developed data-informed learning frameworks, delivering workshops on quantitative and statistical methods to students of varying technical fluency.
 
-- **🔬 Electro-Mechanical Survey Technician** | *Argonne National Laboratory* | **Feb – Sept 2023**
+- **🔬 Electro-Mechanical Survey Technician** | *Argonne National Laboratory* | **Feb – Sept 2023**<br>
 Managed QA data for 700+ magnet assemblies on the Electron-Ion Collider upgrade project, applying physics-informed diagnostics and building structured data pipelines for cross-team traceability.
 
 ---
