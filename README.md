@@ -12,7 +12,7 @@ Data science professional with an M.Sc. in Data Science (DePaul) and a B.Sc. in 
 
 ### 🚀 Featured Projects
 
-- ✨ [**Stellar Classification: Noise Robustness Analysis**](https://github.com/brianurban/stellar-classification-comparative-analysis) | **Apr – Jun 2025**<br>
+- ✨ [**Stellar Classification Comparative Analysis**](https://github.com/brianurban/stellar-classification-comparative-analysis) | **Apr – Jun 2025**<br>
 Compared MLP, logistic regression, and decision trees across six Gaussian noise
 levels using 5-fold CV. Found that peak clean-data accuracy is a misleading model
 selection metric for noisy scientific data.
