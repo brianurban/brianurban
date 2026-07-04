@@ -65,9 +65,6 @@ Managed QA data for 700+ magnet assemblies on the Electron-Ion Collider upgrade 
 - **💻 Remote Full-Stack Software Developer | *Revature* | May – Sept 2022**<br>
 Built predictive analytics modules and interactive data dashboards, deploying scalable Azure cloud solutions and React-based visualization interfaces for real-time decision-making.
 
-- **⚙️ Physics Lab Assistant & Math Tutor | *Northeastern Illinois University* | Sept 2016 – May 2021**<br>
-Calibrated measurement instruments and validated analytical methodologies across multiple laboratory courses, reducing measurement error rates and improving data reliability.
-
 ---
 
 ### 📫 Let's Connect
