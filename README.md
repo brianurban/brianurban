@@ -10,15 +10,15 @@
 
 ### 🚀 Featured Projects
 
-- 🔭 [**Stellar Classification: Noise Robustness Analysis**](https://github.com/brianurban/stellar-classification-comparative-analysis) | **Apr - Jun 2025**
+- 🔭 [**Stellar Classification: Noise Robustness Analysis**](https://github.com/brianurban/stellar-classification-comparative-analysis) | **Apr - Jun 2025**<br>
 Compared MLP, logistic regression, and decision trees across six Gaussian noise
 levels using 5-fold CV. Found that peak clean-data accuracy is a misleading model
 selection metric for noisy scientific data.
 
-- ☄️ **Near-Earth Object (NEO) Risk Screening System** | **Jan - Mar 2026**
+- ☄️ **Near-Earth Object (NEO) Risk Screening System** | **Jan - Mar 2026**<br>
 Built an asteroid hazard classifier using SMOTE and gap-penalized loss on a highly imbalanced dataset (12.7% positive rate). Validated engineered orbital features via K-Means clustering, achieving 2.3× enrichment of hazardous classes.
 
-- 🌌 **Galaxy Morphology Classifier** | **Sept - Nov 2025**
+- 🌌 **Galaxy Morphology Classifier** | **Sept - Nov 2025**<br>
 Fine-tuned an EfficientNet-B0 CNN for 10-class galaxy classification on 17,736
 DECaLS images using transfer learning and weighted loss, reaching 83% test accuracy vs. 15% for classical baselines.
 
@@ -37,8 +37,8 @@ DECaLS images using transfer learning and weighted loss, reaching 83% test accur
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
 
-**Libraries:** PyTorch, scikit-learn, SciPy, Pandas, NumPy
-**Tools:** Git, Positron, VSCode, Tableau, DBeaver, Docker, AWS, Azure
+**Libraries:** PyTorch, scikit-learn, SciPy, Pandas, NumPy<br>
+**Tools:** Git, Positron, VSCode, Tableau, DBeaver, Docker, AWS, Azure<br>
 **Languages:** Python, R, SQL, LaTeX, HTML/CSS/JavaScript
 
 ---
