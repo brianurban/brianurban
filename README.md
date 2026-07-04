@@ -12,20 +12,14 @@ Data science professional with an M.Sc. in Data Science (DePaul) and a B.Sc. in 
 
 ### 🚀 Featured Projects
 
-- ✨ [**Stellar Classification Comparative Analysis**](https://github.com/brianurban/stellar-classification-comparative-analysis) | **Apr – Jun 2025**<br>
-Compared MLP, logistic regression, and decision trees across six Gaussian noise
-levels using 5-fold CV. Found that peak clean-data accuracy is a misleading model
-selection metric for noisy scientific data.
-
 - ☄️ **Near-Earth Object (NEO) Risk Screening System** | **Jan – Mar 2026**<br>
-Built an asteroid hazard classifier using SMOTE and gap-penalized loss on a highly
-imbalanced dataset (12.7% positive rate). Validated engineered orbital features via
-K-Means clustering, achieving 2.3× enrichment of hazardous classes.
+Built an asteroid hazard classifier using SMOTE and gap-penalized loss on a highly imbalanced dataset (12.7% positive rate). Validated engineered orbital features via K-Means clustering, achieving 2.3× enrichment of hazardous classes.
 
 - 🌌 **Galaxy Morphology Classifier** | **Sept – Nov 2025**<br>
-Fine-tuned an EfficientNet-B0 CNN for 10-class galaxy classification on 17,736
-DECaLS images using transfer learning and weighted loss, reaching 83% test accuracy
-vs. 15% for classical baselines.
+Fine-tuned an EfficientNet-B0 CNN for 10-class galaxy classification on 17,736 DECaLS images using transfer learning and weighted loss, reaching 83% test accuracy vs. 15% for classical baselines.
+
+- ✨ [**Stellar Classification Comparative Analysis**](https://github.com/brianurban/stellar-classification-comparative-analysis) | **Apr – Jun 2025**<br>
+Compared MLP, logistic regression, and decision trees across six Gaussian noise levels using 5-fold CV. Found that peak clean-data accuracy is a misleading model selection metric for noisy scientific data.
 
 ---
 
