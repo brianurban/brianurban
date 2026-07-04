@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Brian Urban 👋
 
-<!--
-**brianurban/brianurban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **MSc Data Science | BSc Physics + Applied Mathematics minor**
 
-Here are some ideas to get you started:
+🔬 **Research interests:** Deep learning applications in astrophysics,
+particularly nuclear fusion prediction in stars and NEO hazard classification.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **Current project:** [Stellar Classification Comparative Analysis](https://github.com/brianurban/stellar-classification-comparative-analysis) — comparing how ML models handle measurement noise on astronomical data.
+
+🛠️ **Tech stack:** Python, PyTorch, scikit-learn, Jupyter, Pandas, NumPy
+
+📫 **Connect:** [LinkedIn](your-linkedin-url)
+
+⭐ **Languages:** Python, SQL, R
