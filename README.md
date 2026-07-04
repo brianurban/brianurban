@@ -34,7 +34,7 @@ Compared MLP, logistic regression, and decision trees across six Gaussian noise 
 ![Seaborn](https://img.shields.io/badge/Seaborn-4EAEAA?logo=python&logoColor=fff)<br>
 
 **Tools:**
-![Positron](https://custom-icon-badges.demolab.com/badge/Positron-5D8AA8?logo=positron2&logoColor=white)
+![Positron](https://custom-icon-badges.demolab.com/badge/Positron-5D8AA8?logo=posit-positron&logoColor=white)
 ![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=fff)
 ![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
