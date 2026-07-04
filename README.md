@@ -67,7 +67,7 @@ Developed data-informed learning frameworks, delivering workshops on quantitativ
 - **🔬 Electro-Mechanical Survey Technician** | *Argonne National Laboratory* | **Feb – Sept 2023**<br>
 Managed QA data for 700+ magnet assemblies on the Electron-Ion Collider upgrade project, applying physics-informed diagnostics and building structured data pipelines for cross-team traceability.
 
-- **💻 Full-Stack Software Developer** | *Revature* | **May – Sept 2022**<br>
+- **💻 Remote Full-Stack Software Developer** | *Revature* | **May – Sept 2022**<br>
 Built predictive analytics modules and interactive data dashboards, deploying scalable Azure cloud solutions and React-based visualization interfaces for real-time decision-making.
 
 - **⚙️ Physics Lab Assistant & Math Tutor** | *Northeastern Illinois University* | **Sept 2016 – May 2021**<br>
