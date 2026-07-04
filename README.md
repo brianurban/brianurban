@@ -1,9 +1,8 @@
 # Hi, I'm Brian Urban 👋
 
-🎓 **MSc Data Science | BSc Physics + Applied Mathematics minor**
+🎓 **M.Sc. Data Science | B.Sc. Physics + Applied Mathematics minor**
 
-🔬 **Research interests:** Deep learning applications in astrophysics,
-particularly nuclear fusion prediction in stars and NEO hazard classification.
+🔬 **Research interests:** Deep learning applications in astrophysics, particularly NEO hazard classification and nuclear fusion prediction in stars.
 
 🔭 **Current project:** [Stellar Classification Comparative Analysis](https://github.com/brianurban/stellar-classification-comparative-analysis) — comparing how ML models handle measurement noise on astronomical data.
 
