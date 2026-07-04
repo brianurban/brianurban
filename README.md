@@ -71,4 +71,6 @@ Calibrated measurement instruments and validated analytical methodologies across
 
 ---
 
-**⭐️ Fun Fact:** With my telescope, I take pictures of the night sky and bring it to local star parties to share my love and knowledge of the night sky.
+### ⭐️ Fun Fact(s):
+
+- With my telescope, I take pictures of the night sky and bring it to local star parties to share my love and knowledge of the night sky.
