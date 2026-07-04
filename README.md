@@ -1,6 +1,6 @@
 # Hi, I'm Brian! 👋
 
-🎓 **M.Sc. Data Science | B.Sc. Physics + Applied Mathematics minor**
+🎓 **M.Sc. in Data Science | B.Sc. in Physics + Applied Mathematics minor**
 
 🔬 **Research interests:** Deep learning applications in astrophysics, particularly NEO hazard classification and nuclear fusion prediction in stars.
 
