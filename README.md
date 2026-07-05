@@ -61,7 +61,7 @@ Compared MLP, logistic regression, and decision trees across six Gaussian noise 
 - **📚 Math & Physics Tutor | *Malcolm X College* | Nov 2024 – Present**<br>
 Developed data-informed learning frameworks, delivering workshops on quantitative and statistical methods to students of varying technical fluency.
 
-- **🔬 Electro-Mechanical Survey Technician | *Argonne National Laboratory* | Feb – Sept 2023**<br>
+- **⚙️ Electro-Mechanical Survey Technician | *Argonne National Laboratory* | Feb – Sept 2023**<br>
 Managed QA data for 700+ magnet assemblies on the Electron-Ion Collider upgrade project, applying physics-informed diagnostics and building structured data pipelines for cross-team traceability.
 
 - **💻 Remote Full-Stack Software Developer | *Revature* | May – Sept 2022**<br>
