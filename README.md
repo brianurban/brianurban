@@ -47,6 +47,7 @@ Compared MLP, logistic regression, and decision trees across six Gaussian noise 
 **Languages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)](#)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
