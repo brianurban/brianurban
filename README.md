@@ -12,7 +12,7 @@ Data science professional with an M.Sc. in Data Science (DePaul) and a B.Sc. in 
 
 ### 🚀 Featured Projects
 
-- ☄️ **Near-Earth Object (NEO) Risk Screening System | Jan – Mar 2026**<br>
+- ☄️ [**Comparative Analysis of Machine Learning Models for Near-Earth Object Hazard Classification**](https://github.com/brianurban/neo-hazard-classification-comparative-analysis) **| Jan – Mar 2026**<br>
 Built an asteroid hazard classifier using SMOTE and gap-penalized loss on a highly imbalanced dataset (12.7% positive rate). Validated engineered orbital features via K-Means clustering, achieving 2.3× enrichment of hazardous classes.
 
 - 🌌 **Galaxy Morphology Classifier | Sept – Nov 2025**<br>
