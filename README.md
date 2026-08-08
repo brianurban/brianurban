@@ -25,6 +25,17 @@ Compared MLP, logistic regression, and decision trees across six Gaussian noise 
 
 ### 🛠️ Tech Stack
 
+**Languages:**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=fff)
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=fff)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=fff)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=fff)
+![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell-white&logoColor=fff)
+
 **Libraries:**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)
 ![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)
@@ -45,17 +56,6 @@ Compared MLP, logistic regression, and decision trees across six Gaussian noise 
 ![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=fff)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)<br>
-
-**Languages:**
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=fff)
-![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=fff)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=fff)
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=fff)
-![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell-white&logoColor=fff)
 
 ---
 
