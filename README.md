@@ -15,7 +15,7 @@ Data science professional with an M.Sc. in Data Science (DePaul) and a B.Sc. in 
 - ☄️ [**Comparative ML for NEO Hazard Classification**](https://github.com/brianurban/neo-hazard-classification) **| Jan – Mar 2026**<br>
 Built an asteroid hazard classifier using SMOTE and gap-penalized loss on a highly imbalanced dataset (12.7% positive rate). Validated engineered orbital features via K-Means clustering, achieving 2.3× enrichment of hazardous classes.
 
-- 🌌 **Galaxy Morphology Classifier | Sept – Nov 2025**<br>
+- 🌌 [**Galaxy Morphology Classifier**](https://github.com/brianurban/galaxy-morphology-classification) **| Sept – Nov 2025**<br>
 Fine-tuned an EfficientNet-B0 CNN for 10-class galaxy classification on 17,736 DECaLS images using transfer learning and weighted loss, reaching 83% test accuracy vs. 15% for classical baselines.
 
 - ✨ [**Stellar Classification Comparative Analysis**](https://github.com/brianurban/stellar-classification-comparative-analysis) **| Apr – Jun 2025**<br>
