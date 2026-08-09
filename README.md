@@ -1,12 +1,15 @@
 # Hi, I'm Brian! 👋
 
-Data science professional with an M.Sc. in Data Science (DePaul) and a B.Sc. in Physics with Applied Mathematics (NEIU), combining machine learning expertise with full-stack development and large-scale data quality experience. Proficient in Python, R, and SQL, with a proven track record of building predictive models, deploying cloud-based analytics applications, and managing quality-assurance data across 700+ assets at Argonne National Laboratory. Seeking roles in data science or quantitative research where interdisciplinary problem-solving drives measurable impact.
+Data science professional bridging physics domain expertise with machine learning engineering. M.Sc. in Data Science (DePaul) and B.Sc. in Physics with Applied Mathematics (NEIU). Built predictive models, deployed cloud-based analytics apps, and managed QA data across 700+ assets at Argonne National Laboratory. Currently seeking data science roles where interdisciplinary problem-solving drives measurable impact.
 
 🎓 **M.Sc. Data Science (DePaul, 2024–2026) | B.Sc. Physics + Applied Mathematics (NEIU, 2015–2021)**
 
-🔬 **Research interests:** Deep learning applications in astrophysics: NEO hazard classification, nuclear fusion prediction in stars, and model robustness under measurement uncertainty.
+🔬 **Research Interests:** Deep learning applications in astrophysics: NEO hazard classification, nuclear fusion prediction in stars, and model robustness under measurement uncertainty.
 
-🔭 **Currently open to data science roles** where I can bridge physics domain expertise with machine learning engineering.
+🔭 **What's Next:**
+- Actively interviewing for data science / ML engineering roles
+- Exploring PhD programs in Astrophysics (deep learning × stellar physics)
+- Expanding horizons at the intersection of astrophysics and data science
 
 ---
 
@@ -79,7 +82,8 @@ Built predictive analytics modules and interactive data dashboards, deploying sc
 
 ---
 
-### ⭐️ Fun Facts:
+### ⭐️ Beyond the Code:
 
 - I share my passion and understanding of the night sky by bringing my telescope, which I use for astrophotography, to local star parties.
-- I enjoy video games with Metal Gear, Kingdom Hearts, and Final Fantasy as my favorite series.
+- I enjoy playing the piano, singing in a choir, doing art, and cooking. 
+- When I'm not stargazing, you'll find me playing Metal Gear Solid, Kingdom Hearts, and Final Fantasy.
