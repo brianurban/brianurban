@@ -76,10 +76,10 @@ Built predictive analytics modules and interactive data dashboards, deploying sc
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/brianmurban/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/brianurban)
-[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)](https://gitlab.com/brianurban)
 
 ---
 
-### ⭐️ Fun Fact:
+### ⭐️ Fun Facts:
 
-- With my telescope, I capture astrophotography and bring it to local star parties to share my love and knowledge of the night sky.
+- I share my passion and understanding of the night sky by bringing my telescope, which I use for astrophotography, to local star parties.
+- I enjoy video games with Metal Gear, Kingdom Hearts, and Final Fantasy as my favorite series.
