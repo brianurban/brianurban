@@ -1,6 +1,6 @@
 # Hi, I'm Brian! 👋
 
-Data science professional bridging physics domain expertise with machine learning engineering. M.Sc. in Data Science (DePaul) and B.Sc. in Physics with Applied Mathematics (NEIU). Built predictive models, deployed cloud-based analytics apps, and managed QA data across 700+ assets at Argonne National Laboratory. Currently seeking data science roles where interdisciplinary problem-solving drives measurable impact.
+Data science professional bridging physics domain expertise with machine learning engineering. MSc in Data Science (DePaul) and BSc in Physics with Applied Mathematics (NEIU). Built predictive models, deployed cloud-based analytics apps, and managed QA data across 700+ assets at Argonne National Laboratory. Currently seeking data science roles where interdisciplinary problem-solving drives measurable impact.
 
 🎓 **MSc Data Science (DePaul, 2024–2026) | BSc Physics + Applied Mathematics (NEIU, 2015–2021)**
 
