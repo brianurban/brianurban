@@ -2,7 +2,7 @@
 
 Data science professional bridging physics domain expertise with machine learning engineering. M.Sc. in Data Science (DePaul) and B.Sc. in Physics with Applied Mathematics (NEIU). Built predictive models, deployed cloud-based analytics apps, and managed QA data across 700+ assets at Argonne National Laboratory. Currently seeking data science roles where interdisciplinary problem-solving drives measurable impact.
 
-🎓 **M.Sc. Data Science (DePaul, 2024–2026) | B.Sc. Physics + Applied Mathematics (NEIU, 2015–2021)**
+🎓 **MSc Data Science (DePaul, 2024–2026) | BSc Physics + Applied Mathematics (NEIU, 2015–2021)**
 
 🔬 **Research Interests:** Deep learning applications in astrophysics: NEO hazard classification, nuclear fusion prediction in stars, and model robustness under measurement uncertainty.
 
