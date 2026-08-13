@@ -8,7 +8,7 @@ Data science professional bridging physics domain expertise with machine learnin
 
 🔭 **What's Next:**
 - Actively interviewing for data science / ML engineering roles
-- Exploring PhD programs in Astrophysics (deep learning × stellar physics)
+- Exploring PhD programs in astrophysics (deep learning × stellar physics)
 - Expanding horizons at the intersection of astrophysics and data science
 
 ---
