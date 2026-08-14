@@ -82,7 +82,7 @@ Built predictive analytics modules and interactive data dashboards, deploying sc
 
 ---
 
-### ⭐️ Beyond the Code:
+### ⭐️ Beyond the Code
 
 - I share my passion and understanding of the night sky by bringing my telescope, which I use for astrophotography, to local star parties.
 - I enjoy playing the piano, singing in a choir, doing art, and cooking. 
