@@ -83,7 +83,6 @@ Built predictive analytics modules and interactive data dashboards, deploying sc
 ### 📫 Let's Connect
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/brianmurban/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/brianurban)
 
 ---
 
