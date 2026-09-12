@@ -31,7 +31,7 @@ Compared MLP, logistic regression, and decision trees across six Gaussian noise 
 
 ### 🛠️ Tech Stack
 
-**Languages:**
+**Languages:**<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=fff)
@@ -40,9 +40,9 @@ Compared MLP, logistic regression, and decision trees across six Gaussian noise 
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=fff)
 ![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell-white&logoColor=fff)
+![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell-white&logoColor=fff)<br>
 
-**Libraries:**
+**Libraries:**<br>
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)
 ![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)
 ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=fff)
@@ -55,7 +55,7 @@ Compared MLP, logistic regression, and decision trees across six Gaussian noise 
 ![ggplot2](https://custom-icon-badges.demolab.com/badge/ggplot2-2D2F33?logo=ggplot2b&logoColor=white)
 ![forecast](https://custom-icon-badges.demolab.com/badge/forecast-1A9850?logo=forecast&logoColor=white)<br>
 
-**Tools:**
+**Tools:**<br>
 ![Positron](https://custom-icon-badges.demolab.com/badge/Positron-3A76B3?logo=posit-positron&logoColor=fff)
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=fff)
 ![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)
