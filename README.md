@@ -51,13 +51,14 @@ Compared MLP, logistic regression, and decision trees across six Gaussian noise 
 ![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5c3ee8?logo=opencv&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4EAEAA?logo=python&logoColor=fff)
-![SciPy](https://custom-icon-badges.demolab.com/badge/SciPy-54A6FF?logo=scipy&logoColor=fff)<br>
+![SciPy](https://custom-icon-badges.demolab.com/badge/SciPy-54A6FF?logo=scipy&logoColor=fff)
+![ggplot2](https://custom-icon-badges.demolab.com/badge/ggplot2-2D2F33?logo=ggplot2b&logoColor=white)
+![forecast](https://custom-icon-badges.demolab.com/badge/forecast-1A9850?logo=forecast&logoColor=white)<br>
 
 **Tools:**
 ![Positron](https://custom-icon-badges.demolab.com/badge/Positron-3A76B3?logo=posit-positron&logoColor=fff)
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=fff)
 ![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)
-![RStudio](https://custom-icon-badges.demolab.com/badge/RStudio-75AADB.svg?logo=rstudio&logoColor=fff)
 ![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=fff)
