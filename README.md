@@ -21,7 +21,7 @@ Built an asteroid hazard classifier using SMOTE and gap-penalized loss on a high
 - 🪐 [**Exoplanet Transit Detection Using Time Series Analysis**](https://github.com/brianurban/exoplanet-transit-detection/) **| Sept - Nov 2025**<br>
 Detected exoplanet transits in Kepler light curves using ARIMA and Fourier harmonic regression, with robust MAD dip detection outperforming classical thresholds on confirmed hosts versus controls in a case-control design.
 
-- 🌌 [**Galaxy Morphology Classifier**](https://github.com/brianurban/galaxy-morphology-classification) **| Sept – Nov 2025**<br>
+- 🌌 [**Galaxy Morphology Classification Using Machine Learning**](https://github.com/brianurban/galaxy-morphology-classification) **| Sept – Nov 2025**<br>
 Fine-tuned an EfficientNet-B0 CNN for 10-class galaxy classification on 17,736 DECaLS images using transfer learning and weighted loss, reaching 83% test accuracy vs. 15% for classical baselines.
 
 - ✨ [**Stellar Classification Comparative Analysis**](https://github.com/brianurban/stellar-classification-comparative-analysis) **| Apr – Jun 2025**<br>
