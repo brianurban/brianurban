@@ -18,8 +18,8 @@ Data science professional bridging physics domain expertise with machine learnin
 - ☄️ [**Comparative ML for NEO Hazard Classification**](https://github.com/brianurban/neo-hazard-classification) **| Jan – Mar 2026**<br>
 Built an asteroid hazard classifier using SMOTE and gap-penalized loss on a highly imbalanced dataset (12.7% positive rate). Validated engineered orbital features via K-Means clustering, achieving 2.3× enrichment of hazardous classes.
 
-- 🪐 **Exoplanet Transit Detection Using Time Series Analysis | Sept - Nov 2025**<br>
-WIP (Work In Progress)
+- 🪐 [**Exoplanet Transit Detection Using Time Series Analysis**](https://github.com/brianurban/exoplanet-transit-detection/) **| Sept - Nov 2025**<br>
+Detected exoplanet transits in Kepler light curves using ARIMA and Fourier harmonic regression, with robust MAD dip detection outperforming classical thresholds on confirmed hosts versus controls in a case-control design.
 
 - 🌌 [**Galaxy Morphology Classifier**](https://github.com/brianurban/galaxy-morphology-classification) **| Sept – Nov 2025**<br>
 Fine-tuned an EfficientNet-B0 CNN for 10-class galaxy classification on 17,736 DECaLS images using transfer learning and weighted loss, reaching 83% test accuracy vs. 15% for classical baselines.
