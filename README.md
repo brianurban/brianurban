@@ -5,6 +5,7 @@
 MSc Data Science (DePaul, 2024 – 2026) · BSc Physics + Applied Mathematics (NEIU, 2015 – 2021)
 
 **Connect:** [LinkedIn](https://www.linkedin.com/in/brianmurban/)
+
 ---
 
 🔍 **Currently:** Actively interviewing for data science / ML engineering roles · Exploring PhD programs in astrophysics (data science × nuclear astrophysics)
@@ -48,7 +49,7 @@ MLP, logistic regression, and decision trees compared across six Gaussian noise 
 ## 💼 Experience
 
 **📚 Math & Physics Tutor · Malcolm X College · Nov 2024 – Present**
-  
+
 Developed data-informed learning frameworks, delivering workshops on quantitative and statistical methods to students of varying technical fluency.
 
 **⚙️ Electro-Mechanical Survey Technician · Argonne National Laboratory · Feb – Sept 2023**
