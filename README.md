@@ -38,7 +38,7 @@ MLP, logistic regression, and decision trees compared across six Gaussian noise 
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 **Core stack:** Python · R · SQL · PyTorch · scikit-learn · Pandas / NumPy · Docker · AWS / Azure
 
@@ -46,7 +46,7 @@ MLP, logistic regression, and decision trees compared across six Gaussian noise 
 
 ---
 
-### 💼 Experience
+## 💼 Experience
 
 **📚 Math & Physics Tutor · Malcolm X College · Nov 2024 – Present**
   
