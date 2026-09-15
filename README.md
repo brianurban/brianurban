@@ -56,7 +56,7 @@ Developed data-informed learning frameworks, delivering workshops on quantitativ
 
 Managed QA data for **700+ magnet assemblies** on the Electron-Ion Collider upgrade project, applying physics-informed diagnostics and building structured data pipelines for cross-team traceability.
 
-**💻 Remote Full-Stack Software Developer · Revature · May – Sept 2022**
+**💻 Full-Stack Software Developer · Revature · May – Sept 2022**
 
 Built predictive analytics modules and interactive data dashboards, deploying scalable Azure cloud solutions and React-based visualization interfaces for real-time decision-making.
 
