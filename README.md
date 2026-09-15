@@ -2,10 +2,9 @@
 
 **Physics-trained data scientist teaching machines to handle messy, imbalanced, real-world scientific data — where accuracy tables lie and robustness matters.**
 
-MSc Data Science (DePaul, 2024–2026) · BSc Physics + Applied Mathematics (NEIU, 2015–2021)
+MSc Data Science (DePaul, 2024 – 2026) · BSc Physics + Applied Mathematics (NEIU, 2015 – 2021)
 
-**Connect:** [LinkedIn](https://www.linkedin.com/in/brianmurban/) · [Email](mailto:brian.m.urban@protonmail.com)
-
+**Connect:** [LinkedIn](https://www.linkedin.com/in/brianmurban/)
 ---
 
 🔍 **Currently:** Actively interviewing for data science / ML engineering roles · Exploring PhD programs in astrophysics (data science × nuclear astrophysics)
@@ -22,7 +21,7 @@ MSc Data Science (DePaul, 2024–2026) · BSc Physics + Applied Mathematics (NEI
 Asteroid hazard classifier built with SMOTE and gap-penalized loss on a heavily imbalanced dataset (**12.7% positive rate**). Engineered orbital features validated via K-Means clustering, achieving **2.3× enrichment** of hazardous classes.
 
 ### 🪐 [Exoplanet Transit Detection Using Time Series Analysis](https://github.com/brianurban/exoplanet-transit-detection/)
-**Sept - Nov 2025**
+**Sept – Nov 2025**
 
 ARIMA and Fourier harmonic regression to detect transits in Kepler light curves, with robust MAD dip detection outperforming classical thresholds on confirmed hosts vs. controls in a case-control design.
 
