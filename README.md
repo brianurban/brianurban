@@ -1,94 +1,70 @@
 # Hi, I'm Brian! 👋
 
-Results-driven and detail-oriented professional bridging physics domain expertise with machine learning engineering. MSc in Data Science from DePaul University and BSc in Physics with Applied Mathematics from Northeastern Illinois University. Built predictive models, deployed cloud-based analytics apps, and managed QA data across 700+ assets at Argonne National Laboratory. Currently seeking data science roles where interdisciplinary problem-solving drives measurable impact.
+**Physics-trained data scientist teaching machines to handle messy, imbalanced, real-world scientific data — where accuracy tables lie and robustness matters.**
 
-🎓 **MSc Data Science (DePaul, 2024–2026) | BSc Physics + Applied Mathematics (NEIU, 2015–2021)**
+MSc Data Science (DePaul, 2024–2026) · BSc Physics + Applied Mathematics (NEIU, 2015–2021)
 
-🔬 **Research Interests:** Deep learning applications in astrophysics: NEO hazard classification, nuclear fusion prediction in stars, and model robustness under measurement uncertainty.
-
-🔭 **What's Next:**
-- Actively interviewing for data science / ML engineering roles
-- Exploring PhD programs in astrophysics (data science × nuclear astrophysics)
-- Expanding horizons at the intersection of astrophysics and data science
+**Connect:** [LinkedIn](https://www.linkedin.com/in/brianmurban/) · [Email](mailto:brian.m.urban@protonmail.com)
 
 ---
 
-### 🚀 Featured Projects
+🔍 **Currently:** Actively interviewing for data science / ML engineering roles · Exploring PhD programs in astrophysics (data science × nuclear astrophysics)
 
-- ☄️ [**Comparative ML for NEO Hazard Classification**](https://github.com/brianurban/neo-hazard-classification) **| Jan – Mar 2026**<br>
-Built an asteroid hazard classifier using SMOTE and gap-penalized loss on a highly imbalanced dataset (12.7% positive rate). Validated engineered orbital features via K-Means clustering, achieving 2.3× enrichment of hazardous classes.
+🔬 **Research Interests:** Deep learning applications in astrophysics — NEO hazard classification, nuclear fusion prediction in stars, and model robustness under measurement uncertainty.
 
-- 🪐 [**Exoplanet Transit Detection Using Time Series Analysis**](https://github.com/brianurban/exoplanet-transit-detection/) **| Sept - Nov 2025**<br>
-Detected exoplanet transits in Kepler light curves using ARIMA and Fourier harmonic regression, with robust MAD dip detection outperforming classical thresholds on confirmed hosts versus controls in a case-control design.
+---
 
-- 🌌 [**Galaxy Morphology Classification Using Machine Learning**](https://github.com/brianurban/galaxy-morphology-classification) **| Sept – Nov 2025**<br>
-Fine-tuned an EfficientNet-B0 CNN for 10-class galaxy classification on 17,736 DECaLS images using transfer learning and weighted loss, reaching 83% test accuracy vs. 15% for classical baselines.
+## 🚀 Featured Projects
 
-- ✨ [**Stellar Classification Comparative Analysis**](https://github.com/brianurban/stellar-classification-comparative-analysis) **| Apr – Jun 2025**<br>
-Compared MLP, logistic regression, and decision trees across six Gaussian noise levels using 5-fold CV. Found that peak clean-data accuracy is a misleading model selection metric for noisy scientific data.
+### ☄️ [Comparative ML for NEO Hazard Classification](https://github.com/brianurban/neo-hazard-classification)
+**Jan – Mar 2026**
+
+Asteroid hazard classifier built with SMOTE and gap-penalized loss on a heavily imbalanced dataset (**12.7% positive rate**). Engineered orbital features validated via K-Means clustering, achieving **2.3× enrichment** of hazardous classes.
+
+### 🪐 [Exoplanet Transit Detection Using Time Series Analysis](https://github.com/brianurban/exoplanet-transit-detection/)
+**Sept - Nov 2025**
+
+ARIMA and Fourier harmonic regression to detect transits in Kepler light curves, with robust MAD dip detection outperforming classical thresholds on confirmed hosts vs. controls in a case-control design.
+
+### 🌌 [Galaxy Morphology Classification Using Machine Learning](https://github.com/brianurban/galaxy-morphology-classification)
+**Sept – Nov 2025**
+
+EfficientNet-B0 CNN fine-tuned for 10-class galaxy classification on 17,736 DECaLS images via transfer learning and weighted loss — **83% test accuracy vs. 15%** for classical baselines.
+
+### ✨ [Stellar Classification Comparative Analysis](https://github.com/brianurban/stellar-classification-comparative-analysis)
+**Apr – Jun 2025**
+
+MLP, logistic regression, and decision trees compared across six Gaussian noise levels using 5-fold CV. Key finding: **peak clean-data accuracy is a misleading model selection metric** for noisy scientific data.
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages:**<br>
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=fff)
-![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=fff)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=fff)
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=fff)
-![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell-white&logoColor=fff)<br>
+**Core stack:** Python · R · SQL · PyTorch · scikit-learn · Pandas / NumPy · Docker · AWS / Azure
 
-**Libraries:**<br>
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)
-![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)
-![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=fff)
-![AlbumentationsX](https://custom-icon-badges.demolab.com/badge/AlbumentationsX-ff0101?logo=albumentationsx&logoColor=fff)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=fff)
-![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)
-![OpenCV](https://img.shields.io/badge/OpenCV-5c3ee8?logo=opencv&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4EAEAA?logo=python&logoColor=fff)
-![SciPy](https://custom-icon-badges.demolab.com/badge/SciPy-54A6FF?logo=scipy&logoColor=fff)
-![ggplot2](https://custom-icon-badges.demolab.com/badge/ggplot2-2D2F33?logo=ggplot2b&logoColor=white)
-![forecast](https://custom-icon-badges.demolab.com/badge/forecast-1A9850?logo=forecast&logoColor=white)<br>
-
-**Tools:**<br>
-![Positron](https://custom-icon-badges.demolab.com/badge/Positron-3A76B3?logo=posit-positron&logoColor=fff)
-![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=fff)
-![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)
-![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
-![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=fff)
-![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=fff)
-![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)<br>
+**Also working with:** JavaScript / React · OpenCV · Albumentations · SciPy · ggplot2 · forecast · Jupyter · Tableau · LaTeX · Git
 
 ---
 
 ### 💼 Experience
 
-- **📚 Math & Physics Tutor | *Malcolm X College* | Nov 2024 – Present**<br>
+**📚 Math & Physics Tutor · Malcolm X College · Nov 2024 – Present**
+  
 Developed data-informed learning frameworks, delivering workshops on quantitative and statistical methods to students of varying technical fluency.
 
-- **⚙️ Electro-Mechanical Survey Technician | *Argonne National Laboratory* | Feb – Sept 2023**<br>
-Managed QA data for 700+ magnet assemblies on the Electron-Ion Collider upgrade project, applying physics-informed diagnostics and building structured data pipelines for cross-team traceability.
+**⚙️ Electro-Mechanical Survey Technician · Argonne National Laboratory · Feb – Sept 2023**
 
-- **💻 Remote Full-Stack Software Developer | *Revature* | May – Sept 2022**<br>
+Managed QA data for **700+ magnet assemblies** on the Electron-Ion Collider upgrade project, applying physics-informed diagnostics and building structured data pipelines for cross-team traceability.
+
+**💻 Remote Full-Stack Software Developer · Revature · May – Sept 2022**
+
 Built predictive analytics modules and interactive data dashboards, deploying scalable Azure cloud solutions and React-based visualization interfaces for real-time decision-making.
 
 ---
 
-### 📫 Let's Connect
+## ⭐️ Beyond the Code
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/brianmurban/)
-
----
-
-### ⭐️ Beyond the Code
-
-- I share my passion and understanding of the night sky by bringing my telescope, which I use for astrophotography, to local star parties.
-- I enjoy playing the piano, singing in a choir, doing art, and cooking. 
-- When I'm not stargazing, you'll find me playing Metal Gear Solid, Kingdom Hearts, and Final Fantasy.
+- 🔭 I bring my telescope to local star parties and share the night sky through astrophotography
+- 🎹 Piano, choir singing, art, and cooking
+- 🎮 When I'm not stargazing: Metal Gear Solid, Kingdom Hearts, and Final Fantasy
+- 🚴‍♂️ Cycling Chicago's Lakefront Trail
