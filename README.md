@@ -4,8 +4,6 @@
 
 MSc Data Science (DePaul University, June 2026) · BSc Physics, Minor in Applied Mathematics (NEIU, May 2021)
 
-**Connect:** [LinkedIn](https://www.linkedin.com/in/brianmurban/)
-
 ---
 
 🔍 **Currently:** Actively interviewing for data science / ML engineering roles · Exploring PhD programs in astrophysics (data science × nuclear astrophysics)
