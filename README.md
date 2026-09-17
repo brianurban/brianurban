@@ -46,7 +46,7 @@ MLP, logistic regression, and decision trees compared across six Gaussian noise 
 
 ## 💼 Experience
 
-**📚 Math & Physics Tutor · Malcolm X College · Nov 2024 – Present**
+**📚 Math and Physics Tutor · Malcolm X College · Nov 2024 – Present**
 
 Developed data-informed learning frameworks, delivering workshops on quantitative and statistical methods to students of varying technical fluency.
 
