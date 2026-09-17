@@ -1,6 +1,6 @@
 # Hi, I'm Brian! 👋
 
-**Physics-trained data scientist teaching machines to handle messy, imbalanced, real-world scientific data, where accuracy tables lie and robustness matters.**
+**Physics-trained data scientist teaching machines to handle messy, imbalanced, real-world scientific data—where accuracy tables lie and robustness matters.**
 
 MSc Data Science (DePaul University, June 2026) · BSc Physics, Minor in Applied Mathematics (NEIU, May 2021)
 
