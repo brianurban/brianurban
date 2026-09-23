@@ -8,7 +8,7 @@ MSc Data Science (DePaul University, June 2026) · BSc Physics, Minor in Applied
 
 🔍 **Currently:** Actively interviewing for data science / ML engineering roles · Exploring PhD programs in astrophysics (data science × nuclear astrophysics)
 
-🔬 **Research Interests:** Deep learning applications in astrophysics — NEO hazard classification, nuclear fusion prediction in stars, and model robustness under measurement uncertainty.
+🔬 **Research Interests:** Deep learning applications in astrophysics—NEO hazard classification, nuclear fusion prediction in stars, and model robustness under measurement uncertainty.
 
 ---
 
