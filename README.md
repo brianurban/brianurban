@@ -14,19 +14,19 @@ MSc Data Science (DePaul University, June 2026) · BSc Physics, Minor in Applied
 
 ## 🚀 Featured Projects
 
-**☄️ [Comparative ML for NEO Hazard Classification](https://github.com/brianurban/neo-hazard-classification)** · Jan – Mar 2026
+**☄️ [Comparative ML for NEO Hazard Classification](https://github.com/brianurban/neo-hazard-classification) · Jan – Mar 2026**
 
 Asteroid hazard classifier on a heavily imbalanced dataset (**12.7% positive rate**) using SMOTE and gap-penalized loss. K-Means-validated orbital features achieved **2.3× enrichment** of hazardous classes.
 
-**🪐 [Exoplanet Transit Detection Using Time Series Analysis](https://github.com/brianurban/exoplanet-transit-detection/)** · Sept – Nov 2025
+**🪐 [Exoplanet Transit Detection Using Time Series Analysis](https://github.com/brianurban/exoplanet-transit-detection/) · Sept – Nov 2025**
 
 ARIMA and Fourier harmonic regression detect transits in Kepler light curves. MAD-based dip detection outperforms classical thresholds on confirmed hosts vs. controls in a case-control design.
 
-**🌌 [Galaxy Morphology Classification Using Machine Learning](https://github.com/brianurban/galaxy-morphology-classification)** · Sept – Nov 2025
+**🌌 [Galaxy Morphology Classification Using Machine Learning](https://github.com/brianurban/galaxy-morphology-classification) · Sept – Nov 2025**
 
 EfficientNet-B0 fine-tuned via transfer learning and weighted loss for 10-class galaxy classification on 17,736 DECaLS images: **83% test accuracy vs. 15%** for classical baselines.
 
-**✨ [Stellar Classification Comparative Analysis](https://github.com/brianurban/stellar-classification-comparative-analysis)** · Apr – Jun 2025
+**✨ [Stellar Classification Comparative Analysis](https://github.com/brianurban/stellar-classification-comparative-analysis) · Apr – Jun 2025**
 
 MLPs, logistic regression, and decision trees compared across six Gaussian noise levels with 5-fold CV. Key finding: **peak clean-data accuracy is a misleading model selection metric** for noisy scientific data.
 
