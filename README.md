@@ -36,7 +36,7 @@ MLPs, logistic regression, and decision trees compared across six Gaussian noise
 
 **Languages:** Python · R · SQL · JavaScript
 
-**ML Librarys:** PyTorch · scikit-learn · Pandas · NumPy · SciPy · OpenCV · Albumentations · forecast · ggplot2
+**ML & Data Libraries:** PyTorch · scikit-learn · Pandas · NumPy · SciPy · OpenCV · Albumentations · forecast · ggplot2
 
 **Cloud & Tools:** AWS · Azure · Docker · React · Git · Jupyter · Tableau · LaTeX
 
